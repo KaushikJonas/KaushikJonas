@@ -22,7 +22,7 @@
 ### 🌙 Night Vision Object Detection  
 **Python, OpenCV**  
 Developed a computer vision system to detect objects in low-light conditions using image enhancement techniques and ML models.  
-🔗 [GitHub Repo](https://github.com/KaushikJonas/Spotify-Songs-Genre-Segmentation)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/object-detection)
 
 ### 💬 Sentiment Analysis on Social Media  
 **Python, TextBlob, NLP**  
