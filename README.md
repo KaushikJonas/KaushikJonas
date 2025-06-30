@@ -22,27 +22,27 @@
 ### 🌙 Night Vision Object Detection  
 **Python, OpenCV**  
 Developed a computer vision system to detect objects in low-light conditions using image enhancement techniques and ML models.  
-[GitHub Repo](https://github.com/KaushikJonas/night-vision-object-detection)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/night-vision-object-detection)
 
 ### 💬 Sentiment Analysis on Social Media  
 **Python, TextBlob, NLP**  
 Analyzed Twitter data using TextBlob to classify tweets into positive, negative, and neutral sentiments with visualizations.  
-[GitHub Repo](https://github.com/KaushikJonas/social-media-sentiment-analysis)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/social-media-sentiment-analysis)
 
 ### 🩺 Cardiovascular Disease Prediction  
 **Python, Scikit-learn, Pandas**  
 Built a logistic regression model to predict heart disease risks using health metrics like cholesterol and BP.  
-[GitHub Repo](https://github.com/KaushikJonas/cardiovascular-disease-prediction)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/cardiovascular-disease-prediction)
 
 ### 🎧 Spotify User Genre Segmentation  
 **Python, K-Means Clustering, Seaborn**  
 Segmented users based on Spotify listening behavior and visualized genre preferences for building recommendation logic.  
-[GitHub Repo](https://github.com/KaushikJonas/spotify-genre-segmentation)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/spotify-genre-segmentation)
 
 ### 🧪 Diabetes Prediction  
 **Python, Scikit-learn**  
 Created a classification model using the `load_diabetes` dataset. Focused on preprocessing, feature selection, and performance metrics.  
-[GitHub Repo](https://github.com/KaushikJonas/diabetes-prediction)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/diabetes-prediction)
 
 ---
 
