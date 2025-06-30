@@ -27,7 +27,7 @@ Developed a computer vision system to detect objects in low-light conditions usi
 ### 💬 Sentiment Analysis on Social Media  
 **Python, TextBlob, NLP**  
 Analyzed Twitter data using TextBlob to classify tweets into positive, negative, and neutral sentiments with visualizations.  
-🔗 [GitHub Repo](https://github.com/KaushikJonas/social-media-sentiment-analysis)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/sentiment-analysis)
 
 ### 🩺 Cardiovascular Disease Prediction  
 **Python, Scikit-learn, Pandas**  
