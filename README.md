@@ -32,7 +32,7 @@ Analyzed Twitter data using TextBlob to classify tweets into positive, negative,
 ### 🩺 Cardiovascular Disease Prediction  
 **Python, Scikit-learn, Pandas**  
 Built a logistic regression model to predict heart disease risks using health metrics like cholesterol and BP.  
-🔗 [GitHub Repo](https://github.com/KaushikJonas/cardiovascular-disease-prediction)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/cardio-prediction-ml)
 
 ### 🎧 Spotify User Genre Segmentation  
 **Python, K-Means Clustering, Seaborn**  
