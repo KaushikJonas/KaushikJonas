@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaushik
 
-🎓 M.Sc. Applied Data Science student at SRM Institute of Science and Technology  
+🎓 M.Sc. Applied Data Science student at SRM Institute of Science and Technology,Kattankulathur
 📍 Based in Tamil Nadu, India  
 🔭 Currently working on machine learning and deep learning projects  
 🌱 Passionate about building data-driven solutions and exploring AI tools  
