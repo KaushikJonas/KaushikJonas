@@ -42,7 +42,7 @@ Segmented users based on Spotify listening behavior and visualized genre prefere
 ### 🧪 Diabetes Prediction  
 **Python, Scikit-learn**  
 Created a classification model using the `load_diabetes` dataset. Focused on preprocessing, feature selection, and performance metrics.  
-🔗 [GitHub Repo](https://github.com/KaushikJonas/diabetes-prediction)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/predict-diabetes)
 
 ---
 
