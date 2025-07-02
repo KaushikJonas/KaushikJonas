@@ -48,6 +48,7 @@ Created a classification model using the `load_diabetes` dataset. Focused on pre
 🖼️ Image Classification using CNN (CIFAR-10 Dataset)
 
 Python, TensorFlow/Keras, CNN
+
 Implemented a Convolutional Neural Network to classify images in the CIFAR-10 dataset into 10 categories. Achieved 74% test accuracy with 10 epochs.
 🔗 GitHub Repo
 
