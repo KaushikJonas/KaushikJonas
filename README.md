@@ -38,7 +38,7 @@ Built a logistic regression model to predict heart disease risks using health me
 ### 🎧 Spotify User Genre Segmentation  
 **Python, K-Means Clustering, Seaborn**  
 Segmented users based on Spotify listening behavior and visualized genre preferences for building recommendation logic.  
-🔗 [GitHub Repo](https://github.com/KaushikJonas/Spotify-Songs-Genre-Segmentation)
+🔗 [GitHub Repo](https://github.com/KaushikJonas/spotify-genre-segmentation)
 
 ### 🧪 Diabetes Prediction  
 **Python, Scikit-learn**  
